@@ -21,7 +21,7 @@ $ npm i traffic-control -S
 Or from NPM CDN:
 
 ```html
-<script src="//npmcdn.com/traffic-control@0.1.1/dist/traffic-control.min.js"></script>
+<script src="//unpkg.com/traffic-control@0.1.1/dist/traffic-control.min.js"></script>
 ```
 
 ## Usage
@@ -37,7 +37,7 @@ First, load Netlify's OAuth helpers before your closing `</body>` (`traffic-cont
 And then load this script:
 
 ```html
-<script src="//npmcdn.com/traffic-control@0.1.1/dist/traffic-control.min.js"></script>
+<script src="//unpkg.com/traffic-control@0.1.1/dist/traffic-control.min.js"></script>
 ```
 
 Then, simply initiate the `trafficControl` function:
